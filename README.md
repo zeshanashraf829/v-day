@@ -18,7 +18,7 @@ You've got three options — pick whatever works for you.
 No setup needed. Just send this link:
 
 ```
-https://sahilgogna.github.io/v-day
+https://zeshanashraf829.github.io/v-day
 ```
 
 That's it. Done. You're welcome.
@@ -30,7 +30,7 @@ That's it. Done. You're welcome.
 Want your own version you can customize? Follow these steps:
 
 #### 1. Fork the Repo
-- Go to [github.com/SahilGogna/v-day](https://github.com/SahilGogna/v-day)
+- Go to [github.com/zeshanashraf829/v-day](https://github.com/zeshanashraf829/v-day)
 - Click the **Fork** button in the top-right corner
 - This creates a copy of the repo under your GitHub account
 
